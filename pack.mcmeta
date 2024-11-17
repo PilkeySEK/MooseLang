@@ -1,0 +1,13 @@
+{
+    "pack": {
+        "description": "Mooooo!",
+        "pack_format": 34
+    },
+	"language": {
+    "ms_rl": {
+      "name": "Moose Speak",
+      "region": "Reefland",
+      "bidirectional": false
+    }
+  }
+}
